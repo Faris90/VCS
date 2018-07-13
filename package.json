@@ -2,7 +2,7 @@
   "name": "arras-io",
   "version": "1.0.0",
   "description": "A fanmade sequel to diep.io",
-  "main": ",
+  "main": "",
   "scripts": {
     "start": "node arrasio/src/server/server.js"
   },
